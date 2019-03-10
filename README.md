@@ -1,2 +1,2 @@
 # CoL-Wiki
-Child Of Wiki
+Child Of Light Wiki source data
